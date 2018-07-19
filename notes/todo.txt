@@ -1,4 +1,7 @@
-Set up automated testing using Jasmine
+Improve testing using Jasmine and Travis
+  - Imr
+  - Write test suite which gives confidence server will start
+  - Start testing against new versions of node js and updated package versions
 
 ---
 
