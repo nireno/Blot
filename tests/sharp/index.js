@@ -1,6 +1,6 @@
 var transform = require("../../app/thumbnail/transform.js");
 var fs = require("fs-extra");
-var output_dir = __dirname + "/out";
+var output_dir = __dirname + "/data";
 
 describe("sharp", function() {
   beforeEach(function(done) {
